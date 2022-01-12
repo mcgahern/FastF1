@@ -65,7 +65,7 @@ sns.set(rc={'figure.figsize': (11.7, 8.27)})
 fig, ax = plt.subplots()
 
 # Set the title of the plot
-ax.set_title('2021 Championship Standings until Round 18 (Brazil)')
+ax.set_title('2021 Drivers Championship Standings')
 
 # Draw a line for every driver in the data by looping through all the standings
 # This is done so we can specify the team colours
